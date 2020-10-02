@@ -23,7 +23,7 @@ You need to pass in 6 parameters (listed below). These parameters are separated 
 
 ---
 
-Results are a JSON format text file, which can be used for Power Automate, Excel, Power BI, PowerShell Scripts, Database Importing or even another program. The advantage with a console app is that this can be very easily run via task scheduler (e.g. a nightly update of data etc)
+Results are a JSON format text file, which can be used for Power Automate, Excel, Power BI, PowerShell Scripts, Database Importing or even another self-written program. The advantage with a console app is that this can be very easily run via task scheduler (e.g. a nightly update of data etc)
 
 ---
 

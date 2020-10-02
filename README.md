@@ -10,7 +10,7 @@ You need to pass in 6 parameters (listed below). These parameters are separated 
 
 - Token URL (e.g. YOURSCHOOL.isams.cloud/auth/connect/token)
 - Client ID (e.g. Your iSAMS key)
-- Client Secret (e.g. Your iSAMS secrwet)
+- Client Secret (e.g. Your iSAMS secret)
 - API Endpoint URL (e.g. YOURSCHOOL.isams.cloud/api/humanresources/employees)
 - JSON Element (e.g. employees)
 - Data Save Location (e.g. c:\temp\results.json)
